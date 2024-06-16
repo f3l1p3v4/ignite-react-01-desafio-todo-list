@@ -23,7 +23,7 @@ Este projeto foi um dos desafios da Trilha ReactJS. Nesse desafio, foi desenvolv
 **Clone este repositório**
 
 ```bash
-git clone https://github.com/f3l1p3v4/ignite-react-01-desafio-todo-list
+git clone https://github.com/f3l1p3v4/ignite-react-01-desafio-todo-list.git
 ```
 
 **Acesse a pasta**

@@ -30,3 +30,34 @@
     flex-direction: column;
     gap: 0.75rem;
   }
+  .linkCode {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+
+    font-size: 0.9rem;
+    font-weight: 700;
+    text-decoration: none;
+    background-color: #30363d;
+    border: 1px solid #505152;
+    border-radius: 8px;
+    color: #ffffff;
+    padding: 10px;
+
+    transition: all 0.3s;
+  }
+
+
+  .linkCode:hover {
+    opacity: 0.8;
+  }
+
+
+  .linkCode svg {
+    font-size: 1rem;
+  }

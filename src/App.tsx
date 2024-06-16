@@ -103,6 +103,10 @@ export function App() {
           )}
         </div>
       </section>
+      <a href='https://github.com/f3l1p3v4/ignite-react-01-desafio-todo-list' className={styles.linkCode} >
+        < GithubLogo />
+        Ver Código
+      </a>
     </main>
   )
 }
